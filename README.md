@@ -19,5 +19,5 @@ Aplikasi Flutter untuk manajemen operasional kantin yang efisien.
 ### Installation
 1. Clone repository
 ```bash
-git clone https://github.com//kantin.git](https://github.com/Punaa-Embrace/kantin.git
+git clone https://github.com/Punaa-Embrace/kantin.git
 ```
